@@ -9,5 +9,5 @@ function ready(fn) {
 ready(initEventHandlers);
 
 function initEventHandlers() {
-  console.log("Hello");
+  console.log("Welcome to the ManufacturingOpen homepage!");
 }
